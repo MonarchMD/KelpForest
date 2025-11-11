@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Adds kelp forests to the game and stops kelp from spawning elsewhere.",
+    "pack_format": 88.0,
+    "min_format": 88.0,
+    "max_format": 88.0
+  }
+}
